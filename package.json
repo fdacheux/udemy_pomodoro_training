@@ -2,7 +2,7 @@
   "name": "chrono",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://fdacheux.github.io/udemy_pomodoro_training",
+  "homepage": "https://fdacheux.github.io/udemy_pomodoro_training/",
   "type": "module",
   "scripts": {
     "dev": "vite",
